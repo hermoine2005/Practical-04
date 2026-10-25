@@ -1,0 +1,16 @@
+{
+  "name": "practical04-server-validation",
+  "version": "1.0.0",
+  "description": "Practical 04 - Server-side validation using NodeJS and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
